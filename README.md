@@ -2,6 +2,11 @@
 demo for class
 
 
+## Week 0
+- here's what I made this week
+ ![Breadboard](/Week1/LED_Breadboard2.jpg)
+  - 
+
 ## Week 1
 - see Week 1 folder
  - just another line to show you how to separate lines . 
