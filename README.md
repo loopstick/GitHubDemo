@@ -4,7 +4,9 @@ demo for class
 
 ## Week 1
 - see Week 1 folder
- - just another line to show you how to separate lines
+ - just another line to show you how to separate lines . 
+ 
+ - insert and images in-line:
  ![Breadboard](/images/LED_Breadboard2.jpg)
 
 ## Week 2
