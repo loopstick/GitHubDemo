@@ -21,7 +21,7 @@ demo for class
      two spaces should give you a line return
  
  
-
+  
 ## Week 2
 - link to videos
   - I really liked this Arduino project: https://www.youtube.com/watch?v=_RyodnisVvU
