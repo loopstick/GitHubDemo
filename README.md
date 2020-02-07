@@ -1,4 +1,4 @@
-# Git Hub Template for Mechatroncis and Digital Electronics
+# Git Hub Template for Mechatronics and Digital Electronics
 demo for class
 
 
