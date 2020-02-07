@@ -24,8 +24,10 @@ demo for class
 
 ## Week 2
 - link to videos
-  - I really liked this Arduino project: https://www.youtube.com/watch?v=QUQta4f_87E
-  - I really liked [this](https://www.youtube.com/watch?v=QUQta4f_87E) Arduino project. 
+  - I really liked this Arduino project: https://www.youtube.com/watch?v=_RyodnisVvU
+    - ``I really liked this Arduino project: https://www.youtube.com/watch?v=_RyodnisVvU``
+  - I really liked [this](https://www.youtube.com/watch?v=_RyodnisVvU) Arduino project. 
+    - ``I really liked [this](https://www.youtube.com/watch?v=_RyodnisVvU) Arduino project.`` 
 
 
 
