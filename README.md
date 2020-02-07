@@ -4,18 +4,18 @@ demo for class
 
 
 ## Week 1
-see Week 1 folder
+   - see Week 1 folder
      - put code into a zip file for easy downloading
      - put unzipped code in the folder for online viewing
 
-insert and images in-line:  
+   - insert and images in-line:  
    ``![Breadboard](/images/LED_Breadboard2.jpg)``
    ![Breadboard](/images/LED_Breadboard2.jpg)  
    
-   - images will show up at whatever size the file is
-   - re-size images before posting them if necessary  
+     - images will show up at whatever size the file is
+     - re-size images before posting them if necessary  
      
-   two spaces should give you a line return
+     two spaces should give you a line return
  
  
 
