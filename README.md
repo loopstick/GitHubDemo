@@ -8,8 +8,9 @@ demo for class
      - put code into a zip file for easy downloading
      - put unzipped code in the folder for online viewing
 
-   - insert and images in-line:  
-   ``![Breadboard](/images/LED_Breadboard2.jpg)``  
+   - insert images in-line:
+     - put images in an _images_ folder
+     - use this syntax: ``![Breadboard](/images/LED_Breadboard2.jpg)``  
    
    ![Breadboard](/images/LED_Breadboard2.jpg)  
    
