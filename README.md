@@ -5,7 +5,7 @@ demo for class
 
 
 ## Week 1
-   - see Week 1 folder
+   - see [Week 1](https://github.com/loopstick/GitHubDemo/tree/master/Week1) folder
      - put code into a zip file for easy downloading
      - put unzipped code in the folder for online viewing
 
