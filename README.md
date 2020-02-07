@@ -9,12 +9,14 @@ demo for class
      - put unzipped code in the folder for online viewing
 
    - insert and images in-line:  
-   ``![Breadboard](/images/LED_Breadboard2.jpg)``
+   ``![Breadboard](/images/LED_Breadboard2.jpg)``  
+   
    ![Breadboard](/images/LED_Breadboard2.jpg)  
    
      - images will show up at whatever size the file is
      - re-size images before posting them if necessary  
      
+       
      two spaces should give you a line return
  
  
