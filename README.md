@@ -1,6 +1,6 @@
 # Git Hub Template for Mechatronics and Digital Electronics
 demo for class
-   remember there are some resources for GitHub on the [resources](https://github.com/loopstick/ResourcesForClasses/blob/master/README.md#github-resources)page.
+   - remember there are some resources for GitHub on the [resources](https://github.com/loopstick/ResourcesForClasses/blob/master/README.md#github-resources) page.
 
 
 
