@@ -1,7 +1,7 @@
 # Git Hub Template for Mechatronics and Digital Electronics
 demo for class
    - remember there are some resources for GitHub on the [resources](https://github.com/loopstick/ResourcesForClasses/blob/master/README.md#github-resources) page.
-   - [Markdown Cheat Sheet(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+   - [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
    
 
 ## Images
