@@ -2,13 +2,10 @@
 demo for class
    - remember there are some resources for GitHub on the [resources](https://github.com/loopstick/ResourcesForClasses/blob/master/README.md#github-resources) page.
 
+       
+     two spaces should give you a line return
 
-
-## Week 1
-   - see [Week 1](https://github.com/loopstick/GitHubDemo/tree/master/Week1) folder
-     - put code into a zip file for easy downloading
-     - put unzipped code in the folder for online viewing
-
+## Images
    - insert images in-line:
      - put images in an _images_ folder
      - use this syntax: ``![Breadboard](/images/LED_Breadboard2.jpg)``  
@@ -23,27 +20,35 @@ demo for class
  
  
   
-## Week 2
-- link to videos
+## Links
+- link to videos or websites
   - I really liked this Arduino project: https://www.youtube.com/watch?v=_RyodnisVvU
     - ``I really liked this Arduino project: https://www.youtube.com/watch?v=_RyodnisVvU``
   - I really liked [this](https://www.youtube.com/watch?v=_RyodnisVvU) Arduino project. 
     - ``I really liked [this](https://www.youtube.com/watch?v=_RyodnisVvU) Arduino project.`` 
 
 
-## Week 3 
+## GIF
 - post a GIF to display the functionality of your circuit and code.
   - we've found [gifRocket](https://gifrocket.en.softonic.com/mac) to work well on Mac  
     
    ![2LDR_DirectionSense](Week3/2LDR_DirectionSense.gif)    
    
-- post a circuit diagram (hand-drawn or with Fritzing)
+- post a circuit diagram (hand-drawn or with [Fritzing](https://fritzing.org/home/))
   ![2LDR_DirectionSense](Week3/2LDR_DirectionSense_circuit.jpg)  
 
+- see [Week 1](https://github.com/loopstick/GitHubDemo/tree/master/Week1) folder
+     - put code into a zip file for easy downloading
+     - put unzipped code in the folder for online viewing
+     
 - post code
-  - [Week 3 code: .zip](Week3/2LDR_DirectionSense_v4.zip) 
-  - [Week 3 code: .ino](Week3/2LDR_DirectionSense_v4.ino)  
-  - inline: 
+  - see [Week 1](https://github.com/loopstick/GitHubDemo/tree/master/Week1) folder
+    - zip Arduino folder for easy downloading
+      - [Week 3 code: .zip](Week3/2LDR_DirectionSense_v4.zip) 
+    - put unzipped code in the folder for online viewing
+      - [Week 3 code: .ino](Week3/2LDR_DirectionSense_v4.ino)  
+  - post inline:  
+
 ```cpp
 /* 
   Code to sense direction of movement using 2 LDRs.
