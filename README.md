@@ -29,20 +29,15 @@ demo for class
 
 
 ## GIF
-- post a GIF to display the functionality of your circuit and code.
-  - we've found [gifRocket](https://gifrocket.en.softonic.com/mac) to work well on Mac  
-    
+- post a GIF to display the functionality of your circuit and code. [gifRocket](https://gifrocket.en.softonic.com/mac) works well on Mac  
    ![2LDR_DirectionSense](Week3/2LDR_DirectionSense.gif)    
    
 - post a circuit diagram (hand-drawn or with [Fritzing](https://fritzing.org/home/))
   ![2LDR_DirectionSense](Week3/2LDR_DirectionSense_circuit.jpg)  
 
-- see [Week 1](https://github.com/loopstick/GitHubDemo/tree/master/Week1) folder
-     - put code into a zip file for easy downloading
-     - put unzipped code in the folder for online viewing
      
 - post code
-  - see [Week 1](https://github.com/loopstick/GitHubDemo/tree/master/Week1) folder
+  - see [Week 3](https://github.com/loopstick/GitHubDemo/tree/master/Week3) folder
     - zip Arduino folder for easy downloading
       - [Week 3 code: .zip](Week3/2LDR_DirectionSense_v4.zip) 
     - put unzipped code in the folder for online viewing
