@@ -1,6 +1,7 @@
 # Git Hub Template for Mechatronics and Digital Electronics
 demo for class
    - remember there are some resources for GitHub on the [resources](https://github.com/loopstick/ResourcesForClasses/blob/master/README.md#github-resources) page.
+   - [Markdown Cheat Sheet(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
        
      two spaces should give you a line return
@@ -43,7 +44,7 @@ demo for class
     - put unzipped code in the folder for online viewing
       - [Week 3 code: .ino](Week3/2LDR_DirectionSense_v4.ino)  
   - post inline:  
-    - use ``` "```cpp" ``` to begin the code block and ``` "```" to end the code block```
+    - > use ```cpp to start the code block ``` to end it
 ```cpp
 /* 
   Code to sense direction of movement using 2 LDRs.
