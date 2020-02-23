@@ -2,9 +2,7 @@
 demo for class
    - remember there are some resources for GitHub on the [resources](https://github.com/loopstick/ResourcesForClasses/blob/master/README.md#github-resources) page.
    - [Markdown Cheat Sheet(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-       
-     two spaces should give you a line return
+   
 
 ## Images
    - insert images in-line:
@@ -14,12 +12,9 @@ demo for class
    ![Breadboard](/images/LED_Breadboard2.jpg)  
    
    - images will show up at whatever size and orientation the original file is
-   - re-size images before posting them if necessary  
-     
-       
-     two spaces should give you a line return
- 
- 
+   - re-size images before posting them if necessary
+   
+   
   
 ## Links
 - link to videos or websites
@@ -44,7 +39,8 @@ demo for class
     - put unzipped code in the folder for online viewing
       - [Week 3 code: .ino](Week3/2LDR_DirectionSense_v4.ino)  
   - post inline:  
-    - > use ```cpp to start the code block ``` to end it
+    - start with three backticks (`) and "cpp" to format code for C++
+    - end with three backticks (`x3)
 ```cpp
 /* 
   Code to sense direction of movement using 2 LDRs.
