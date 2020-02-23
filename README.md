@@ -43,7 +43,7 @@ demo for class
     - put unzipped code in the folder for online viewing
       - [Week 3 code: .ino](Week3/2LDR_DirectionSense_v4.ino)  
   - post inline:  
-    - use _```cpp_ to begin the code block and _```_ to end the code block
+    - use ``` "```cpp" ``` to begin the code block and ``` "```" to end the code block```
 ```cpp
 /* 
   Code to sense direction of movement using 2 LDRs.
