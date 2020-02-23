@@ -15,7 +15,6 @@ demo for class
    - re-size images before posting them if necessary
    
    
-  
 ## Links
 - link to videos or websites
   - I really liked this Arduino project: https://www.youtube.com/watch?v=_RyodnisVvU
