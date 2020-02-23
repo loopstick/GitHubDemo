@@ -33,7 +33,8 @@ demo for class
 
 ## Week 3 
 - post a GIF to display the functionality of your circuit and code.
-  - we've found [gifRocket](https://gifrocket.en.softonic.com/mac) to work well on Mac
+  - we've found [gifRocket](https://gifrocket.en.softonic.com/mac) to work well on Mac  
+    
    ![2LDR_DirectionSense](Week3/2LDR_DirectionSense.gif)    
    
 - post a circuit diagram (hand-drawn or with Fritzing)
